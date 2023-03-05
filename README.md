@@ -15,7 +15,7 @@ This repo contains example code, exercises and notes to walk through the basics 
   * Topic 1.9: Modules, Packages, `pip` package manager
   * Topic 1.10: File IO
   * Topic 1.11: Object Oriented Programming
-  * Topic 1.12: Debugging
+  * Topic 1.12: Logging & Debugging
   * Topic 1.13: Operator overloading
 
 * **Module 2: Python & Web**
