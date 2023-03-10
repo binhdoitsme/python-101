@@ -7,16 +7,17 @@ This repo contains example code, exercises and notes to walk through the basics 
   * Topic 1.2: Basic operators: binary operators, unary operators
   * Topic 1.3: Standard IO
   * Topic 1.4: Conditional & `while` loop
-  * Topic 1.5: `list`, `set`, `tuple`, `range`, `dict`, collection slicing
-  * Topic 1.6: `for` loop, `enumerate`
-  * Topic 1.6: Functions
-  * Topic 1.7: Command-line arguments
-  * Topic 1.8: Structuring a Python file module
-  * Topic 1.9: Modules, Packages, `pip` package manager
-  * Topic 1.10: File IO
-  * Topic 1.11: Object Oriented Programming
-  * Topic 1.12: Logging & Debugging
-  * Topic 1.13: Operator overloading
+  * Topic 1.5: Sequence types: `list`, `range`, `tuple`
+  * Topic 1.6: Set types (`set`, `frozenset`) & Mapping types (`dict`)
+  * Topic 1.7: `for` loop, `enumerate`
+  * Topic 1.8: Functions
+  * Topic 1.9: Command-line arguments
+  * Topic 1.10: Structuring a Python file module
+  * Topic 1.11: Modules, Packages, `pip` package manager
+  * Topic 1.12: File IO
+  * Topic 1.13: Object Oriented Programming
+  * Topic 1.14: Logging & Debugging
+  * Topic 1.15: Operator overloading
 
 * **Module 2: Python & Web**
   * Topic 2.1: Exceptions, `try`-`except`-`finally`
