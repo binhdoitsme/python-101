@@ -8,8 +8,8 @@ This repo contains example code, exercises and notes to walk through the basics 
   * Topic 1.3: Standard IO
   * Topic 1.4: Conditional & `while` loop
   * Topic 1.5: Sequence types: `list`, `range`, `tuple`
-  * Topic 1.6: Set types (`set`, `frozenset`) & Mapping types (`dict`)
-  * Topic 1.7: `for` loop, `enumerate`
+  * Topic 1.6: `for` loop, `enumerate`
+  * Topic 1.7: Set types (`set`, `frozenset`) & Mapping types (`dict`)
   * Topic 1.8: Functions
   * Topic 1.9: Command-line arguments
   * Topic 1.10: Structuring a Python file module
