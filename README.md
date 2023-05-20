@@ -13,8 +13,8 @@ This repo contains example code, exercises and notes to walk through the basics 
   * Topic 1.8: Functions
   * Topic 1.9: Modules, Packages, `pip` package manager
   * Topic 1.10: File IO
-  * Topic 1.11: Structuring a Python file module
-  * Topic 1.12: Command-line arguments
+  * Topic 1.11: Command-line arguments
+  * Topic 1.12: Structuring a Python file module
   * Topic 1.13: Object Oriented Programming
   * Topic 1.14: Logging & Debugging
   * Topic 1.15: Operator overloading
