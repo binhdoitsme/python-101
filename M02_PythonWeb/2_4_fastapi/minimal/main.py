@@ -1,4 +1,5 @@
 import fastapi
+import uvicorn
 
 # initialize a web application based on FastAPI
 app = fastapi.FastAPI()
@@ -62,3 +63,6 @@ Then return the counter in a dict like the following:
 }
 ```
 """
+
+if __name__ == "__main__":
+    uvicorn.run("main:app")
