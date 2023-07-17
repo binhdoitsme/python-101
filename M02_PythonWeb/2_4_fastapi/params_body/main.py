@@ -72,17 +72,18 @@ def find_students(
     ] = None,  # Optional[] means it may be omitted when calling the endpoint
     hometown: Optional[str] = None,
 ):
+    print(f"finding students matching hometown={hometown} and name={name}")
     results = []
     for s in students:
         # if parameter is omitted we will match all items
-        matches_name = name is not None and s["name"] == name or name is None
-        matches_hometown = (
-            hometown is not None and s["hometown"] == hometown or hometown is None
-        )
+        matches_name = s["name"] == name or name is None
+        matches_hometown = s["hometown"] == hometown or hometown is None
         if matches_hometown and matches_name:
             results.append(s)
     return results
 
+
+# Optional[str] = str | None = Optional<String> (java)
 
 """-------------------------------------------------------------------------"""
 
